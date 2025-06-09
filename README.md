@@ -10,6 +10,9 @@ This project is designed to monitor the health and cash flow of ATMs in real-tim
 - Enable data visualization through Grafana dashboards.
 
 ---
+## Architecture Diagram
+
+![Architecture Diagram](AWS-Project.gif)
 
 ## Flow of the System
 
